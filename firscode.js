@@ -88,7 +88,7 @@ else{
 }
 code += '\t console.log( _result_list);\n\n  \n\n';
 
-code += '\treturn _result_list;\n\ n } \n\n';
+code += '\treturn _result_list;\n\ n } \n\n ';
 code +=  'console.log("Assertion Result: ", test())\n';
 
 
